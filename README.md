@@ -1,4 +1,3 @@
-<img width="1080" height="594" alt="Screenshot 2026-10-20 at 2 14 33 PM" src="https://github.com/user-attachments/assets/351d6604-7874-48cd-8b56-f854f74df485" />
 # Loan Default Risk Analysis & Prediction
 
 **Machine Learning · Credit Risk Analytics · Tableau Dashboards · Financial Decision Support**
@@ -75,6 +74,11 @@ The notebooks also explore **SHAP explanations**, borrower group comparisons, an
 ### 4. Visualization and business recommendations
 
 Tableau dashboards communicate overall portfolio exposure, borrower segments, important default drivers, and geographic patterns. Suggested operational applications include risk-based review queues, targeted audits, enhanced checks for higher-risk applications, and improved borrower-data quality controls.
+
+<img width="1080" height="594" alt="Screenshot 2026-10-20 at 2 14 33 PM" src="https://github.com/user-attachments/assets/351d6604-7874-48cd-8b56-f854f74df485" />
+
+<img width="1078" height="595" alt="Screenshot 2026-10-20 at 2 15 40 PM" src="https://github.com/user-attachments/assets/c68ab188-b7e5-426e-9776-1deb3f4aa3a5" />
+
 
 ## 🏆 Reported Results
 
