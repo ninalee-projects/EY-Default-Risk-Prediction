@@ -1,3 +1,4 @@
+<img width="1080" height="594" alt="Screenshot 2026-10-20 at 2 14 33 PM" src="https://github.com/user-attachments/assets/351d6604-7874-48cd-8b56-f854f74df485" />
 # Loan Default Risk Analysis & Prediction
 
 **Machine Learning · Credit Risk Analytics · Tableau Dashboards · Financial Decision Support**
